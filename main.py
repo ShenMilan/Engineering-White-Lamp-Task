@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup 
 import requests
 
 url_1 = "https://coinmarketcap.com/currencies/uniswap/"
